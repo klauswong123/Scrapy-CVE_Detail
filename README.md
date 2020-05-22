@@ -16,7 +16,7 @@ Example:
 ```
 url: https://www.cvedetails.com//cve/CVE-2014-0347/
 
-title:CVE-2014-0347
+title: CVE-2014-0347
 
 vendor:	Websense
 
